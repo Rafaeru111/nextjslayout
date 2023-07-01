@@ -1,7 +1,10 @@
-Alam mo na kung anong gagawin mo?
+# Welcome
+    the code consist
+        -   Basic routing 
+        -   Routing with Auth (Token Based)
 
-gago ka ba?!
+feel free to modify.
 
-Clone mo ito brader 
-
-# HEE HEE 
+# If you are NEW, Clone the Repo
+    -npm install
+    -npm run dev
